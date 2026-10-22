@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=640&height=60&lines=EchoSweep;Discover+live+hosts+in+seconds;Threaded+ping+sweep.+Pure+Python.;CIDR+or+range.+Windows%2C+Linux%2C+macOS." alt="EchoSweep - Discover live hosts in seconds">
 
-**EchoSweep by nyxaev**
+**EchoSweep**
 
 A small, fast ping sweep tool that finds which hosts are up in an IP range.
 
